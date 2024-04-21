@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I am Emmanuel Mundambu</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+
 
 <br/>
 
@@ -54,7 +54,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-Mun&show_icons=true)
 
 <br><br>
 
@@ -74,11 +74,11 @@
 
 
 
-<a href="https://www.linkedin.com/in/Emmanuel Mundambu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/Emmanuel Mundambu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel Mundambu%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/fw_emmanuelll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
-<a href="mundambue@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mundambue@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mundambue@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
