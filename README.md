@@ -76,7 +76,7 @@
 
 <a href="https://www.linkedin.com/in/Emmanuel Mundambu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel Mundambu%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/fw_emmanuelll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/fw_emmanuelll/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fw_emmanuelll-black?style=flat-square&logo=instagram"></a>
 
 <a href="mundambue@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mundambue@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
