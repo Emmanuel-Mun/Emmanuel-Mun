@@ -8,11 +8,11 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Software Engineering at Zambia university college of Technology
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Mobile app development, UI/UX Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+  
 
 
 
@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Python | Java | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactNative | ReactJS
+- 
 
 <!--
 
@@ -36,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp;  | Docker🐳 | Firebase | flask
+- 🔧 &nbsp;| Machine Learning
 
 <hr>
 
