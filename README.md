@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Python | Java | MySQL
 
-- 
+  
 
 <!--
 
