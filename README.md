@@ -20,15 +20,15 @@
 
 
 
-- 💻 &nbsp; Python | Java | MySQL
+- 💻 &nbsp; Flutter | Firebase | Html & css
 
   
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; firebase | MongoDB
 
-- 🖥 &nbsp; Illustrator| Photoshop |
+- 🖥 &nbsp; Illustrator| Photoshop |Figma
 
 -->
 
